@@ -126,6 +126,28 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Barry",
+      "species": "Bear",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Larr",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "14"
     }
   ]
 }
